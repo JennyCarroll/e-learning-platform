@@ -16,7 +16,4 @@
     "webpack-dev-server": "^3"
   }
   
-
-  "plugins": [["@babel/plugin-transform-private-methods", { "loose": true }]]
-
 }
