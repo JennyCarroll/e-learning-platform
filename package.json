@@ -15,4 +15,8 @@
     "@babel/plugin-transform-private-methods": "^7.22.3",
     "webpack-dev-server": "^3"
   }
+  
+{
+  "plugins": [["@babel/plugin-transform-private-methods", { "loose": true }]]
+}
 }
